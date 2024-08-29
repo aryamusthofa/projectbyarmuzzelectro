@@ -1,0 +1,14 @@
+D:\programBelajar\procedureProgram\bin\Debug\net8.0\procedureProgram.exe
+D:\programBelajar\procedureProgram\bin\Debug\net8.0\procedureProgram.deps.json
+D:\programBelajar\procedureProgram\bin\Debug\net8.0\procedureProgram.runtimeconfig.json
+D:\programBelajar\procedureProgram\bin\Debug\net8.0\procedureProgram.dll
+D:\programBelajar\procedureProgram\bin\Debug\net8.0\procedureProgram.pdb
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\procedureProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\procedureProgram.AssemblyInfoInputs.cache
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\procedureProgram.AssemblyInfo.cs
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\procedureProgram.csproj.CoreCompileInputs.cache
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\procedureProgram.dll
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\refint\procedureProgram.dll
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\procedureProgram.pdb
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\procedureProgram.genruntimeconfig.cache
+D:\programBelajar\procedureProgram\obj\Debug\net8.0\ref\procedureProgram.dll

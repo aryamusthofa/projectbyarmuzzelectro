@@ -1,0 +1,14 @@
+D:\programBelajar\bin\Debug\net8.0\programBelajar.exe
+D:\programBelajar\bin\Debug\net8.0\programBelajar.deps.json
+D:\programBelajar\bin\Debug\net8.0\programBelajar.runtimeconfig.json
+D:\programBelajar\bin\Debug\net8.0\programBelajar.dll
+D:\programBelajar\bin\Debug\net8.0\programBelajar.pdb
+D:\programBelajar\obj\Debug\net8.0\programBelajar.GeneratedMSBuildEditorConfig.editorconfig
+D:\programBelajar\obj\Debug\net8.0\programBelajar.AssemblyInfoInputs.cache
+D:\programBelajar\obj\Debug\net8.0\programBelajar.AssemblyInfo.cs
+D:\programBelajar\obj\Debug\net8.0\programBelajar.csproj.CoreCompileInputs.cache
+D:\programBelajar\obj\Debug\net8.0\programBelajar.dll
+D:\programBelajar\obj\Debug\net8.0\refint\programBelajar.dll
+D:\programBelajar\obj\Debug\net8.0\programBelajar.pdb
+D:\programBelajar\obj\Debug\net8.0\programBelajar.genruntimeconfig.cache
+D:\programBelajar\obj\Debug\net8.0\ref\programBelajar.dll
