@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "958524852929",
+    "firebase_url": "https://armuzzproj-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "armuzzproj",
+    "storage_bucket": "armuzzproj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958524852929:android:29a4b467ec6e2cd869e240",
+        "android_client_info": {
+          "package_name": "com.armuzzelectro.myprofileinformation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIhzSRQeW-z7lxBj6MgoUaL4zDBH2TXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958524852929:android:3a4711313df5ce0269e240",
+        "android_client_info": {
+          "package_name": "com.example.armuzzmemberapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIhzSRQeW-z7lxBj6MgoUaL4zDBH2TXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958524852929:android:f7121ddc4c2e669b69e240",
+        "android_client_info": {
+          "package_name": "com.example.bytebattles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIhzSRQeW-z7lxBj6MgoUaL4zDBH2TXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958524852929:android:e8b49de594cf10a169e240",
+        "android_client_info": {
+          "package_name": "com.example.calc_byarmuzzxzdev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIhzSRQeW-z7lxBj6MgoUaL4zDBH2TXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958524852929:android:a9752a8b4a3bfd7f69e240",
+        "android_client_info": {
+          "package_name": "com.example.myprofileinformationbyarmuzzelectro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIhzSRQeW-z7lxBj6MgoUaL4zDBH2TXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
