@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeDebugResources-58:/layout/activity_edit_link.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_edit_link.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeDebugResources-58:/layout/activity_signup.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeDebugResources-58:/layout/activity_login.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeDebugResources-58:/layout/activity_verif.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_verif.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeDebugResources-58:/layout/activity_main.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeDebugResources-58:/layout/activity_delete_link.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_delete_link.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeDebugResources-58:/layout/activity_add_link.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_add_link.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeDebugResources-58:/layout/activity_welcome.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_welcome.xml"
+    }
+]

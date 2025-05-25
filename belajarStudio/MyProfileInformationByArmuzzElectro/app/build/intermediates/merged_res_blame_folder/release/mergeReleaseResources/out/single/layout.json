@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\dialog_loading.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\activity_delete_link.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_delete_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\activity_edit_link.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_edit_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\activity_add_link.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_add_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\activity_verif.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_verif.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:/layout/dialog_loading.xml",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-60:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-mergeReleaseResources-58:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_main.xml"
+    }
+]

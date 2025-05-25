@@ -1,0 +1,5 @@
+com.example.myprofileinformationbyarmuzzelectro.test.app-core-1.6.1-0 C:\Users\Administrator\.gradle\caches\8.11.1\transforms\3f7be55bd85a01356f1fe24b3d54789a\transformed\core-1.6.1\res
+com.example.myprofileinformationbyarmuzzelectro.test.app-androidTest-1 D:\programBelajar\belajarStudio\MyProfileInformationByArmuzzElectro\app\build\generated\res\resValues\androidTest\debug
+com.example.myprofileinformationbyarmuzzelectro.test.app-mergeDebugAndroidTestResources-2 D:\programBelajar\belajarStudio\MyProfileInformationByArmuzzElectro\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.myprofileinformationbyarmuzzelectro.test.app-mergeDebugAndroidTestResources-3 D:\programBelajar\belajarStudio\MyProfileInformationByArmuzzElectro\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.myprofileinformationbyarmuzzelectro.test.app-debugAndroidTest-4 D:\programBelajar\belajarStudio\MyProfileInformationByArmuzzElectro\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

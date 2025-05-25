@@ -1,0 +1,13 @@
+#Sun May 25 17:48:17 WIB 2025
+base.0=D\:\\programBelajar\\belajarStudio\\MyProfileInformationByArmuzzElectro\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=D\:\\programBelajar\\belajarStudio\\MyProfileInformationByArmuzzElectro\\app\\build\\intermediates\\global_synthetics_dex\\release\\mergeReleaseGlobalSynthetics\\classes.dex
+base.2=D\:\\programBelajar\\belajarStudio\\MyProfileInformationByArmuzzElectro\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+base.3=D\:\\programBelajar\\belajarStudio\\MyProfileInformationByArmuzzElectro\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes3.dex
+path.0=classes.dex
+path.1=classes.dex
+path.2=classes2.dex
+path.3=classes3.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

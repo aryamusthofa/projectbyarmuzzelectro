@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://armuzzproj-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">958524852929</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzIhzSRQeW-z7lxBj6MgoUaL4zDBH2TXM</string>
+    <string name="google_app_id" translatable="false">1:958524852929:android:29a4b467ec6e2cd869e240</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzIhzSRQeW-z7lxBj6MgoUaL4zDBH2TXM</string>
+    <string name="google_storage_bucket" translatable="false">armuzzproj.firebasestorage.app</string>
+    <string name="project_id" translatable="false">armuzzproj</string>
+</resources>

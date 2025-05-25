@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-pngs-54:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/layout_activity_edit_link.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_edit_link.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/layout_activity_verif.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_verif.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_bg_signup.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/bg_signup.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/layout_activity_welcome.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/layout_activity_login.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-pngs-54:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-pngs-54:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-pngs-54:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/xml_data_extraction_rules.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_btn_link_selector.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/btn_link_selector.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_bg_login.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/bg_login.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/layout_activity_main.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_delete.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/layout_activity_signup.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_bg_welcome.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/bg_welcome.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-pngs-54:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_edit.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/layout_activity_add_link.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_add_link.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-pngs-54:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_bg_main.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/bg_main.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/xml_backup_rules.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_eye_on.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_eye_on.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_add.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/layout_activity_delete_link.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/layout/activity_delete_link.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_search.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_search.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-pngs-54:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_back_arrow.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_back_arrow.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_default_profile.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_default_profile.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_eye_off.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_eye_off.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-debug-59:/drawable_ic_logout.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-61:/drawable/ic_logout.xml"
+    }
+]

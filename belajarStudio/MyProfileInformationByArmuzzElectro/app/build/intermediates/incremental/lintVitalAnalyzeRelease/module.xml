@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\programBelajar\belajarStudio\MyProfileInformationByArmuzzElectro\app"
+    name=":app"
+    type="APP"
+    maven="My Profile Information By Armuzz Electro:app:unspecified"
+    agpVersion="8.10.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\Administrator\AppData\Local\Android\Sdk\platforms\android-36\android.jar;C:\Users\Administrator\AppData\Local\Android\Sdk\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

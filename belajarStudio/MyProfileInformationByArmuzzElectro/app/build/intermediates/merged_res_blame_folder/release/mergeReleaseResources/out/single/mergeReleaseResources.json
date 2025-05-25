@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-pngs-54:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_bg_signup.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\bg_signup.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-pngs-54:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_eye_on.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_eye_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-pngs-54:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_dialog_loading.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-pngs-54:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_activity_add_link.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_add_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_eye_off.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_eye_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_activity_delete_link.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_delete_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_default_profile.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_default_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_bg_welcome.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\bg_welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_activity_verif.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_verif.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-pngs-54:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_bg_main.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\bg_main.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-pngs-54:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\layout_activity_edit_link.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\layout\\activity_edit_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.armuzzelectro.myprofileinformation.app-release-59:/layout_dialog_loading.xml.flat",
+        "source": "com.armuzzelectro.myprofileinformation.app-main-60:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_btn_link_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\btn_link_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-pngs-54:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-release-59:\\drawable_bg_login.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.11.1\\com.armuzzelectro.myprofileinformation.app-main-60:\\drawable\\bg_login.png"
+    }
+]
